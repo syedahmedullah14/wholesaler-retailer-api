@@ -20,7 +20,7 @@ A Node.js API for managing wholesaler-retailer relationships and stock transacti
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/wholesaler-retailer-api.git
+git clone https://github.com/syedahmedullah14/wholesaler-retailer-api.git
 cd wholesaler-retailer-api
 ```
 
